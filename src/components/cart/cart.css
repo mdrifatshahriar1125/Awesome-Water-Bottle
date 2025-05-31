@@ -1,0 +1,16 @@
+.cart {
+
+    border:5px solid white;
+    border-radius: 10px;
+    display: flex;
+    gap: 10px;
+    margin-bottom: 30px;
+    padding:10px
+
+}
+.cart img{
+    width: 60px;
+    height: 60px;
+    display: block;
+}
+
