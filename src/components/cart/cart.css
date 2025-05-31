@@ -3,6 +3,7 @@
     border:5px solid white;
     border-radius: 10px;
     display: flex;
+      flex-wrap: wrap;
     gap: 10px;
     margin-bottom: 30px;
     padding:10px
